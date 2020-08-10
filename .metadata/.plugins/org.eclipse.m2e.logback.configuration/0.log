@@ -1,0 +1,21 @@
+2020-07-29 19:05:31,903 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2020-07-29 20:06:16,544 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo1.maven.org/maven2/com/mobidevelop/robovm/robovm-templates-console/2.3.9/robovm-templates-console-2.3.9.jar
+2020-07-29 20:06:16,705 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/com/mobidevelop/robovm/robovm-templates-console/2.3.9/robovm-templates-console-2.3.9.jar
+2020-07-29 20:06:16,829 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo1.maven.org/maven2/com/mobidevelop/robovm/robovm-templates-console/2.3.9/robovm-templates-console-2.3.9.pom
+2020-07-29 20:06:16,969 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/com/mobidevelop/robovm/robovm-templates-console/2.3.9/robovm-templates-console-2.3.9.pom
+2020-07-29 20:09:00,139 [Worker-17: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.kiko:resolverEcuaciones:001 @ D:\eclipse-workspace\resolverEcuaciones\pom.xml.
+2020-07-29 20:09:02,161 [Worker-17: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /resolverEcuaciones/src/main/java
+2020-07-29 20:09:02,166 [Worker-17: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /resolverEcuaciones/src/test/java
+2020-07-29 20:09:02,716 [Worker-17: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 10 sec
+2020-07-29 20:09:05,697 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-29 20:09:05,697 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\resolverEcuaciones\src\main\resources
+2020-07-29 20:09:05,701 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-29 20:09:05,701 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\resolverEcuaciones\src\test\resources
+2020-07-29 20:10:48,897 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-29 20:10:48,898 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\resolverEcuaciones\src\main\resources
+2020-07-29 20:10:48,901 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-29 20:10:48,901 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\resolverEcuaciones\src\test\resources
+2020-07-29 20:18:44,362 [Worker-21: Launching resolverEcuaciones] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-29 20:18:44,362 [Worker-21: Launching resolverEcuaciones] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\resolverEcuaciones\src\main\resources
+2020-07-29 20:18:44,368 [Worker-21: Launching resolverEcuaciones] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-29 20:18:44,368 [Worker-21: Launching resolverEcuaciones] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\resolverEcuaciones\src\test\resources
