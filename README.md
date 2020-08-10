@@ -6,4 +6,4 @@ con acciones de mantenimiento concretas.
 
 • Se instalan todos los plugins necesarios a través del fichero pom.xml.
 
-• Se definire un plan de mejora de la calidad para ejecutarlo sobre el proyecto.
+• Se define un plan de mejora de la calidad para ejecutarlo sobre el proyecto.
